@@ -1,0 +1,1 @@
+this is a second file git init - git status - git add - git commit -m
