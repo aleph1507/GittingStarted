@@ -2,6 +2,8 @@
 
 ### Git init - Git status - Git add - Git commit -m
 
+Adding 3rd line to test ssh
+
 ---
 
 Email at [xrristo@gmail.com](Mailto:xrristo@gmail.com)
