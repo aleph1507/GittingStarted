@@ -1,3 +1,4 @@
 *.exe
 /foo
 .DS_store
+file.txt
